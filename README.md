@@ -36,9 +36,6 @@ My chosen API for this project is **https://pokeapi.co/api/v2/pokemon/ditto**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<p align="center">
-  <img src='https://imgur.com/a/qjAbClg.gif' title='Video Demo' width='' alt='Video Demo' />
-</p>
 
 GIF created with **ScreenToGif**
 
